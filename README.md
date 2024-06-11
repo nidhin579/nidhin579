@@ -40,12 +40,8 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nidhin579&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github Stats" width="60%">
-
-
- 
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=nidhin579&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Top Languages">
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br>
