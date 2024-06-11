@@ -31,6 +31,10 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
+
+![snake gif](https://github.com/nidhin579/nidhin579/blob/output/github-contribution-grid-snake.gif)
+
+<br>
   <img src="![Snake animation](https://github.com/nidhin579/nidhin579/blob/output/github-contribution-grid-snake.svg)">
 <br>
 
