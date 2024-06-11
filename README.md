@@ -37,11 +37,3 @@
 <br>
   <img src="![Snake animation](https://github.com/nidhin579/nidhin579/blob/output/github-contribution-grid-snake.svg)">
 <br>
-
-### :zap: Github Stats
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br>
