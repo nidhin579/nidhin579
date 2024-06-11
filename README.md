@@ -37,3 +37,6 @@
 <br>
   <img src="![Snake animation](https://github.com/nidhin579/nidhin579/blob/output/github-contribution-grid-snake.svg)">
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
