@@ -5,8 +5,7 @@
 
 <p>
   <h4 align="center"><b>With over 4 years of experience as a Flutter developer, I am passionate about creating seamless user experiences and
- building robust applications. I am seeking a role where I can contribute my expertise in cross-platform development. I
- enjoy working in cross-functional teams to deliver value to customers and the business.</b></h4>
+ building robust applications. </b></h4>
 </p>
 
 
