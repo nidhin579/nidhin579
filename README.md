@@ -31,13 +31,14 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
-
+  ![Snake animation](https://github.com/nidhin579/nidhin579/blob/output/github-contribution-grid-snake.svg)
+<br>
 
 ### :zap: Github Stats
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nidhin579&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github Stats" width="60%">
 
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
  
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=nidhin579&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Top Languages">
