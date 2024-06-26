@@ -25,7 +25,7 @@
  regression tickets, and tracking post-release errors.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][[linkedin](https://www.linkedin.com/in/nidhin-varghese-42a54a1a1/)]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
