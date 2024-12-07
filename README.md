@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>With over 4 years of experience as a Flutter developer, I am passionate about creating seamless user experiences and
+  <h4 align="center"><b>With over 5 years of experience as a Flutter developer, I am passionate about creating seamless user experiences and
  building robust applications. </b></h4>
 </p>
 
@@ -18,7 +18,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Engineer at Uber Carshare
+### I am a Software Engineer
 - 🔭 Core developer on a team rebuilding an existing Ionic application into a cross-platform Flutter application with
  over 1 million users.
 - 🌱 Handled release management including creating release candidates, collaborating with QA team, managing
